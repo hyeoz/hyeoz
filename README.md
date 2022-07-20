@@ -5,7 +5,7 @@
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>
 
 ### STAT
-![HYEOZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoz&show_icons=true&theme=radical)
+![HYEOZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoz&show_icons=true&theme=dracula)
 
 ### CONTACT
 <a src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>

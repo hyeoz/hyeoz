@@ -5,7 +5,7 @@
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>
 
 ### CONTACT
-<a> src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/></a>
+<a src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/></a>
 
 ### ABOUT
 <img src="https://img.shields.io/badge/react?style=social&logo=React&logoColor=white"/>

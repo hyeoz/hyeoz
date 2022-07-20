@@ -5,7 +5,7 @@
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>
 
 ### CONTACT
-<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/>
+<img alt="Instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/>
 
 ### ABOUT
 <img src="https://img.shields.io/badge/#ff69b4?style=social&logo=React&logoColor=white"/>

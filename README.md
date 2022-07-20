@@ -5,10 +5,10 @@
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>
 
 ### CONTACT
-<a src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/></a>
+<a src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Insta&logoColor=white"/></a>
 
 ### ABOUT
-<img src="https://img.shields.io/badge/react?style=social&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/nextjs?style=social&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=social&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=social&logo=Next.js&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeoz&count_bg=%23FF8888&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

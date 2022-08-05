@@ -9,7 +9,7 @@
 
 ### CONTACT
 <a src="https://www.instagram.com/hye_oz/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a src="https://hyeoz.tistory.com/"><img alt="Tistory" src =""&logoColor=white"/></a>
+<a src="[https://www.instagram.com/hye_oz/](https://hyeoz.tistory.com/)"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 ### ABOUT
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-317BC6?style=for-the-badge&logo=TypeScript&logoColor=white"/><br />

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG)
+https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG
 
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>
 

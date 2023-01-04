@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG)
+![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/210526280-079068e0-994e-457e-ab20-241b5fa29775.JPG)
+
 
 
 <h1>야구장 가려고 개발하는 사람👩🏻‍💻</h1>

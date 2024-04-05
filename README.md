@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/hye_oz/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://hyeoz.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.youtube.com/@hye_oz" target="_blank"><img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%ED%98%9C%EC%9B%90-%EC%9D%B4-5a695412b/" target="_blank"><img alt="linkedin" src ="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### SKILLS
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-317BC6?style=for-the-badge&logo=TypeScript&logoColor=white"/><br />

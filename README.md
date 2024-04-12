@@ -1,17 +1,6 @@
 ### Hi there 👋
-<!--![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/210526579-19cb4058-2681-4ddf-8140-da164e3cb6bd.JPG)
-![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG) -->
-
-<table>
-  <tr>
-    <td valign="top" style="border: 0 !important; padding: 0 !important;">
-      <img src="https://user-images.githubusercontent.com/76167244/210526579-19cb4058-2681-4ddf-8140-da164e3cb6bd.JPG" alt="emirates_stadium" />
-    </td>
-    <td valign="top" style="border: 0 !important; padding: 0 !important;">
-      <img src="https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG" alt="incheon_ssg_landers_field" />
-    </td>
-  </tr>
-</table>
+![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/210526579-19cb4058-2681-4ddf-8140-da164e3cb6bd.JPG)
+![C2E63714-95DC-4CD7-8E01-1738D73F2826_1_105_c](https://user-images.githubusercontent.com/76167244/206127813-af9f1222-2965-43e5-969a-38a4e2d2d8b3.JPG)
 
 <h1>공놀이 보려고 개발하는 사람👩🏻‍💻</h1>
 

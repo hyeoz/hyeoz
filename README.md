@@ -5,8 +5,11 @@
 </p>
 <h1>공놀이 보려고 개발하는 사람👩🏻‍💻</h1>
 
-### STAT
-![HYEOZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoz&show_icons=true&theme=dracula)
+<h4>LANGUAGE & STATS</h4>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoz" alt="hyeoz-top-langs" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hyeoz&show_icons=true&theme=dracula" alt="hyeoz-stats" width="60%" height="100%" />
+</p>
 
 ### CONTACT
 <a href="https://www.instagram.com/hye_oz/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>

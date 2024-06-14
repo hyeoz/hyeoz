@@ -5,9 +5,8 @@
 </p>
 <h1>공놀이 보려고 개발하는 사람👩🏻‍💻</h1>
 
-<h4>LANGUAGE & STATS</h4>
+<h4>STATS</h4>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoz" alt="hyeoz-top-langs" width="35%" />
     <img src="https://github-readme-stats.vercel.app/api?username=hyeoz&show_icons=true&theme=dracula" alt="hyeoz-stats" width="60%" height="100%" />
 </p>
 

@@ -12,9 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoz&layout=compact&exclude_repo=sports-data-analysis,python_football" />
 </p>
 
-### I SPENT TIME ON...
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=02a477add86adfdb8040b0013b4ea38a)](https://gist.github.com/hyeoz/02a477add86adfdb8040b0013b4ea38a)
-
 ### CONTACT
 <a href="https://www.instagram.com/hye_oz/" target="_blank"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://hyeoz.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>

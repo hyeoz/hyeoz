@@ -34,7 +34,9 @@
 | Product | What I built |
 | :--- | :--- |
 | **[직관일기 · Match Diary](https://github.com/hyeoz/match-diary)**<br /><sub>React Native · Zustand · Node.js · AWS</sub> | 야구 경기의 순간을 기록하는 앱. 기획·디자인·개발·스토어 출시와 운영까지 직접 담당했습니다. **[App Store에서 보기](https://apps.apple.com/kr/app/%EC%A7%81%EA%B4%80%EC%9D%BC%EA%B8%B0/id6503297796)** |
+| **자라나요 · GrowUp**<br /><sub>React Native · TypeScript · Gemini · React Query</sub> | 사진으로 식물을 식별하고 건강 상태를 분석해 맞춤 물주기 일정과 성장 일기를 제공하는 AI 식물 관리 앱입니다. **[App Store에서 보기](https://apps.apple.com/kr/app/%EC%9E%90%EB%9D%BC%EB%82%98%EC%9A%94/id6749172862)** |
 | **[비타망고 · Vita Mango](https://github.com/hyeoz/vita-mango)**<br /><sub>Expo · React Native · Firebase · AI</sub> | 귀여운 캐릭터와 함께 영양제를 기록하고, 일상 데이터를 바탕으로 맞춤 추천을 받는 모바일 앱입니다. |
+| **찍을지도 · Jjigeuljido**<br /><sub>Expo · TypeScript · SQLite · EXIF</sub> | 사진의 위치 정보를 기기 안에서 분석해 나만의 국내 여행 지도를 만들고, 지역별 추억을 다시 보는 로컬 퍼스트 앱입니다. **[App Store에서 보기](https://apps.apple.com/kr/app/%EC%B0%8D%EC%9D%84%EC%A7%80%EB%8F%84-%EC%82%AC%EC%A7%84-%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%A7%80%EB%8F%84/id6801998352)** |
 | **[웨피캠 · Wepicam](https://github.com/hyeoz/wedding_peach_camera)**<br /><sub>Expo · Reanimated · Camera · TypeScript</sub> | 프레임·스티커·텍스트 카드로 사진을 꾸미고 저장·공유하는 카메라 앱입니다. |
 | **[3D Portfolio](https://github.com/hyeoz/hyeoz-portfolio-v2)**<br /><sub>React Three Fiber · Three.js · GSAP</sub> | 축구공, 야구공, 여행의 장면을 인터랙티브 3D 공간에 담은 포트폴리오입니다. **[직접 둘러보기](https://hyeoz-portfolio-v2.vercel.app/)** |
 
